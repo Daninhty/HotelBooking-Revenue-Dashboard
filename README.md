@@ -13,7 +13,7 @@ The dashboard is built using **Power BI**, with data preprocessing and transform
 - Understand customer behavior and segmentation  
 - Support data-driven decision making  
 
-## ⚙️ Tools & Technologies
+## ⚙️ Tools
 - **Microsoft Excel** → Data exploration 
 - **Microsoft SQL Server** → Data cleaning & transformation  
 - **Power BI** → Dashboard & visualization  
